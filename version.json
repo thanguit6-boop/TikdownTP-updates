@@ -2,25 +2,11 @@
   "latest": "5.0.1",
   "versions": [
     {
-      "version": "5.0.1",
-      "url": "https://github.com/thanguit6-boop/TikdownTP-updates/releases/download/v5.0.1/TikdownTP_Setup_v5.0.1.exe",
-      "note": "Bản test update (5.0.1)",
-      "video": "https://www.youtube.com/watch?v=test501",
-      "detail": "https://github.com/thanguit6-boop/TikdownTP-updates/releases/tag/v5.0.1"
-    },
-    {
       "version": "5.0.0",
       "url": "https://github.com/thanguit6-boop/TikdownTP-updates/releases/download/v5.0.0/TikdownTP_Setup_v5.0.0.exe",
       "note": "Bản ổn định",
-      "video": "",
-      "detail": ""
-    },
-    {
-      "version": "4.9.0",
-      "url": "https://github.com/thanguit6-boop/TikdownTP-updates/releases/download/v4.9.0/TikdownTP_Setup_v4.9.0.exe",
-      "note": "Bản cũ (test downgrade)",
-      "video": "",
-      "detail": ""
-    }
+      "video": "https://github.com/thanguit6-boop/",
+      "detail": "https://github.com/thanguit6-boop/"
+    },   
   ]
 }
