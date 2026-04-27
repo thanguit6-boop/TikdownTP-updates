@@ -4,7 +4,9 @@
     {
       "version": "5.0.0",
       "url": "https://github.com/thanguit6-boop/TikdownTP-updates/releases/download/v5.0.0/TikdownTP_Setup_v5.0.0.exe",
-      "note": "Bản mới nhất"
+      "note": "Bản mới nhất",
+      "video": "https://www.youtube.com/watch?v=abc123",
+      "detail": "https://github.com/thanguit6-boop/TikdownTP-updates/releases/tag/v5.0.0"
     }
   ]
 }
