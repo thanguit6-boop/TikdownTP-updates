@@ -1,17 +1,10 @@
 {
-    "latest": "5.0.1",
+    "latest": "5.0.2",
     "versions": [
         {
-            "version": "5.0.1",
-            "url": "https://github.com/thanguit6-boop/TikdownTP-updates/releases/download/v5.0.1/TikdownTP_Setup_v5.0.1.exe",
+            "version": "5.0.2",
+            "url": "https://github.com/thanguit6-boop/TikdownTP-updates/releases/download/v5.0.2/TikdownTP_Setup_v5.0.2.exe",
             "note": "Bản mới nhất",
-            "video": "",
-            "detail": ""
-        },
-        {
-            "version": "5.0.0",
-            "url": "https://github.com/thanguit6-boop/TikdownTP-updates/releases/download/v5.0.0/TikdownTP_Setup_v5.0.0.exe",
-            "note": "Bản ổn định",
             "video": "",
             "detail": ""
         }
