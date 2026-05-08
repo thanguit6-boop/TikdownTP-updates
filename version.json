@@ -1,11 +1,11 @@
 {
-  "latest": "5.0.8",
+  "latest": "6.0.0",
 
   "versions": [
     {
-      "version": "5.0.8",
-      "url": "https://github.com/thanguit6-boop/TikdownTP-updates/releases/download/v5.0.8/TikdownTP_Setup_v5.0.4.exe",
-      "note": "Multi patch test"
+      "version": "6.0.0",
+      "url": "https://github.com/thanguit6-boop/TikdownTP-updates/releases/download/v6.0.0/TikdownTP_Setup_v5.0.4.exe",
+      "note": "Test full update"
     }
   ],
 
@@ -14,24 +14,6 @@
       "to": "5.0.5",
       "url": "https://github.com/thanguit6-boop/TikdownTP-updates/releases/download/v5.0.5/patch_5.0.5.zip",
       "sha256": "SHA_505"
-    },
-
-    "5.0.5": {
-      "to": "5.0.6",
-      "url": "https://github.com/thanguit6-boop/TikdownTP-updates/releases/download/v5.0.6/patch_5.0.6.zip",
-      "sha256": "SHA_506"
-    },
-
-    "5.0.6": {
-      "to": "5.0.7",
-      "url": "https://github.com/thanguit6-boop/TikdownTP-updates/releases/download/v5.0.7/patch_5.0.7.zip",
-      "sha256": "SHA_507"
-    },
-
-    "5.0.7": {
-      "to": "5.0.8",
-      "url": "https://github.com/thanguit6-boop/TikdownTP-updates/releases/download/v5.0.8/patch_5.0.8.zip",
-      "sha256": "SHA_508"
     }
   }
 }
