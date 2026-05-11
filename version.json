@@ -1,26 +1,46 @@
 {
-    "latest": "5.0.4",
+    "latest": "5.0.5",
+
     "versions": [
+        {
+            "version": "5.0.5",
+            "url": "https://github.com/thanguit6-boop/TikdownTP-updates/releases/download/v5.0.4/TikdownTP_Setup_v5.0.4.exe",
+
+            "release_api": "https://api.github.com/repos/thanguit6-boop/TikdownTP-updates/releases/tags/v5.0.4",
+
+            "note": "Test quick update",
+            "video": "",
+            "detail": ""
+        },
+
         {
             "version": "5.0.4",
             "url": "https://github.com/thanguit6-boop/TikdownTP-updates/releases/download/v5.0.4/TikdownTP_Setup_v5.0.4.exe",
+
+            "release_api": "https://api.github.com/repos/thanguit6-boop/TikdownTP-updates/releases/tags/v5.0.4",
+
             "note": "Bản mới nhất",
             "video": "",
             "detail": ""
         },
+
         {
             "version": "5.0.3",
             "url": "https://github.com/thanguit6-boop/TikdownTP-updates/releases/download/v5.0.3/TikdownTP_Setup_v5.0.3.exe",
+
+            "release_api": "https://api.github.com/repos/thanguit6-boop/TikdownTP-updates/releases/tags/v5.0.3",
+
             "note": "Bản ổn định trước",
             "video": "",
             "detail": ""
-        },
-        {
-            "version": "5.0.2",
-            "url": "https://github.com/thanguit6-boop/TikdownTP-updates/releases/download/v5.0.2/TikdownTP_Setup_v5.0.2.exe",
-            "note": "Bản cũ",
-            "video": "",
-            "detail": ""
         }
-    ]
+    ],
+
+    "patches": {
+        "5": {
+            "to": "5.0.5",
+            "url": "https://github.com/thanguit6-boop/TikdownTP-updates/releases/download/v5.0.4/patch_major5_to_5.0.4.zip",
+            "sha256": "PUT_REAL_SHA256_HERE"
+        }
+    }
 }
