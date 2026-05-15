@@ -1,13 +1,11 @@
 {
-    "latest": "6.0.0",
+    "latest": "6.0.1",
 
     "versions": [
         {
-            "version": "6.0.0",
-            "url": "https://github.com/thanguit6-boop/TikdownTP-updates/releases/download/v6.0.0/TikdownTP_Setup_v6.0.0.exe",
-
-            "release_api": "https://api.github.com/repos/thanguit6-boop/TikdownTP-updates/releases/tags/v6.0.0",
-
+            "version": "6.0.1",
+            "url": "https://github.com/thanguit6-boop/TikdownTP-updates/releases/download/v6.0.1/TikdownTP_Setup_v6.0.1.exe",
+            "release_api": "https://api.github.com/repos/thanguit6-boop/TikdownTP-updates/releases/tags/v6.0.1",
             "note": "Bản mới nhất",
             "video": "",
             "detail": "",
@@ -15,11 +13,19 @@
         },
 
         {
+            "version": "6.0.0",
+            "url": "https://github.com/thanguit6-boop/TikdownTP-updates/releases/download/v6.0.0/TikdownTP_Setup_v6.0.0.exe",
+            "release_api": "https://api.github.com/repos/thanguit6-boop/TikdownTP-updates/releases/tags/v6.0.0",
+            "note": "Bản ổn định trước",
+            "video": "",
+            "detail": "",
+            "type": "Stable"
+        },
+
+        {
             "version": "5.0.4",
             "url": "https://github.com/thanguit6-boop/TikdownTP-updates/releases/download/v5.0.4/TikdownTP_Setup_v5.0.4.exe",
-
             "release_api": "https://api.github.com/repos/thanguit6-boop/TikdownTP-updates/releases/tags/v5.0.4",
-
             "note": "Bản ổn định trước",
             "video": "",
             "detail": "",
@@ -29,9 +35,7 @@
         {
             "version": "5.0.3",
             "url": "https://github.com/thanguit6-boop/TikdownTP-updates/releases/download/v5.0.3/TikdownTP_Setup_v5.0.3.exe",
-
             "release_api": "https://api.github.com/repos/thanguit6-boop/TikdownTP-updates/releases/tags/v5.0.3",
-
             "note": "Bản cũ",
             "video": "",
             "detail": "",
@@ -39,5 +43,11 @@
         }
     ],
 
-    "patches": {}
+    "patches": {
+        "6": {
+            "to": "6.0.1",
+            "url": "https://github.com/thanguit6-boop/TikdownTP-updates/releases/download/v6.0.1/TikdownTP_6.0.1_quickupdate.zip",
+            "sha256": "18b75362695650cae20b70f0e52b748eccb0311012eff7dd7131e92af0d5ea87"
+        }
+    }
 }
