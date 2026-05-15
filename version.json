@@ -46,7 +46,7 @@
     "patches": {
         "6": {
             "to": "6.0.1",
-            "url": "https://github.com/thanguit6-boop/TikdownTP-updates/releases/download/v6.0.1/TikdownTP_6.0.1_quickupdate.zip",
+            "url": "https://github.com/thanguit6-boop/TikdownTP-updates/releases/download/v6.0.1/patch_major6_to_6.0.1.zip",
             "sha256": "18b75362695650cae20b70f0e52b748eccb0311012eff7dd7131e92af0d5ea87"
         }
     }
