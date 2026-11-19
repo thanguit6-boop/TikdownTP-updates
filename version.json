@@ -65,7 +65,7 @@
         "6": {
             "to": "6.1.2",
             "url": "https://github.com/thanguit6-boop/TikdownTP-updates/releases/download/v6.1.2/patch_major6_to_6.1.2.zip",
-            "sha256": "ed277047b3ca7e07a4b59fede3c549ad3790ba3038d29d7fb2f97df2f78b7470"
+            "sha256": "6ec245637b520df77f249ee733074c75627e6edc9c8b98bd0aa0bff730640540"
         }
     }
 }
